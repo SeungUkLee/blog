@@ -2,7 +2,7 @@
 
 ## 2020 목표
 
-### 2019 회
+### 2019 회고 
 
 * 다양한 키워드들을 공부하였지만 깊이 있는 공부는 많이 하지 못한 것 같다
 * 시간 관리 실패
@@ -24,12 +24,12 @@
   * 하지만 aws resources 더 공부가 필요한 것 같다
   * 아쉬운 점 - vpc, IaC, 테스트 코드, clean architecture
 * Linux Kernel tracing
-  * 익숙하지 않아 어렵
+  * 익숙하지 않아 어렵다 
 * Functional programming in scala - coursera
 * pps opensource
   * pylint, isort, black, pytest, travic ci, tox, git hooks .. 등 공부하고 적용해 볼 수 있었다
   * GitHub Action과 Poetry 를 활용해봐야겠다
-* 등
+* 등등 
 
 #### 
 
